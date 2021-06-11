@@ -18,3 +18,5 @@ print('{} x {:2} = {}'.format(number,8, number*8))
 print('{} x {:2} = {}'.format(number,9, number*9))
 print('{} x {:2} = {}'.format(number,10, number*10))
 print('--------------')
+
+# Eu sei que poderia usar um for pra isso, mas tô seguindo o fluxo do curso. 
